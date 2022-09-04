@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anilccie
+- 👋 Hi, I’m @anil nayak
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on python,ansible
